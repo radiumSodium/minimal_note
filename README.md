@@ -1,16 +1,18 @@
-# minimalnote
+# Minimal Note
 
-A new Flutter project.
+MD. SOJIBUL ISLAM RANA
 
-## Getting Started
+<hr>
+<p>This is a minimal note taking app inspired from <a src="https://www.youtube.com/channel/UCVj9dwfXRmwyYmiWnk-qCCQ">Mitch Koko</a>. This is an open source project. We are going to improve the app overtime and we gonna fix issues, add new features to the lovely app.</p>
 
-This project is a starting point for a Flutter application.
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+### Here are some screenshots of the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| <img src="resources/p1.png"> | <img src="resources/p2.png"> |
+| ---------------------------- | ---------------------------- |
+| <img src="resources/p3.png"> | <img src="resources/p4.png"> |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<hr>
+
+<p>Made with love by Rana</p>
